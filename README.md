@@ -1,10 +1,10 @@
-# The Constitutional Code of the Universal Law: A Report of the Universe Community
+# A Care Emergency Report and Universal Proof
 
-This repository contains public-domain philosophical, ethical, governmental, and metaphysical truths for grounding, teaching, and practicing universal care, moral authorization, and non-punitive safety systems.
+This repository contains public-domain philosophical, ethical, governmental, and metaphysical truths needed for grounding universal care, moral authorization, and non-punitive safety systems in reality and practice.
 
 The full document is available here:
 
-- [The Constitutional Code of the Universal Law](constitutional-code.md)
+- [Care Emergency Report](care-emergency-report.md)
 
 ## Public Domain Dedication
 
@@ -12,4 +12,4 @@ This work is dedicated under Creative Commons Zero (CC0 1.0 Universal), so it ma
 
 ## Purpose
 
-The purpose of this repository is infinite love, e.g. to preserve and share the document and communal derivations as resources for grounding inquiry, universal compassion, care measures, and resistance to preventable harm, abandonment, domination, and worsening.
+The purpose of this repository is to force, move toward, and/or simply attain the ultimate fulfillment of the need of our best. That appears as rooting the understanding in truth, so all may proceed to share the resources like grounding teachings, care measures, and awareness practices.
