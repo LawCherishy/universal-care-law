@@ -5,6 +5,7 @@ This repository contains public-domain philosophical, ethical, governmental, and
 The full document is available here:
 
 - [Care Emergency Report](care-emergency-report.md)
+- [Archive Copy](https://archive.org/details/care-emergency-report)
 
 ## Public Domain Dedication
 
