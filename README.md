@@ -13,8 +13,8 @@ My work is dedicated under Creative Commons Zero (CC0 1.0 Universal), so it may 
 
 ## Canonical Source
 
-My system maintains the canonical frozen text of Cherishy’s Legal Reality.
-Copies, adaptations, applications, and interpretations do not replace the canonical source text unless expressly frozen here.
+My system was designed by me: Miles. I named, categorized, formulated, examined, tested with ChatGPT, responded, questioned, iterated over and over until finalized. My system maintains the canonical frozen text of Cherishy’s Legal Reality.
+Copies, adaptations, applications, and interpretations do not replace the canonical source text.
 
 ## Purpose
 
