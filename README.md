@@ -13,8 +13,7 @@ My work is dedicated under Creative Commons Zero (CC0 1.0 Universal), so it may 
 
 ## Canonical Source
 
-My system was designed by me: Miles. I named, categorized, formulated, examined, tested with ChatGPT, responded, questioned, iterated over and over until finalized. My system maintains the canonical frozen text of Cherishy’s Legal Reality.
-Copies, adaptations, applications, and interpretations do not replace the canonical source text.
+My system was designed by me: Miles. I named, categorized, formulated, examined, tested with ChatGPT, responded, questioned, iterated over and over until finalized. I am the originator/creator of Cherishy's Legal Reality text and its legal science completely. Copies, adaptations, applications, and interpretations do not replace my canonical source text.
 
 ## Purpose
 
