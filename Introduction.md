@@ -1,10 +1,11 @@
 # Cherishy's Legal Reality
 
-My repository here is the best organization of Cherishy to date. The main question, "What is Cherishy's Legal Reality...?" is joined with a reason why this question is an attractor of all attention. It is inside the originating law of reality. 
+My repository here is the best organization of Cherishy to date. The main question, "What is Cherishy's Legal Reality...?" is joined with a reason why this question is an attractor of all attention. The answer is inside the originating laws of reality following. 
 
-The full document is available here:
+Here it is, available now:
 
-- [Cherishy's Legal Reality]()
+- [Cherishy's Legal Reality](Cherishy's-Legal-Reality.md)
+- [Internet Archive Version](https://archive.org/details/cherishys-legal-reality)
 
 ## Public Domain Dedication
 
